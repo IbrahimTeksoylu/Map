@@ -1,0 +1,143 @@
+[{
+        "id": 1,
+        "siteName": "The Moor",
+        "Latitude": 53.35,
+        "Longitude": -1.5,
+        "Description": "Former historic palace housing huge art collection, from Roman sculptures to da Vinci's Mona Lisa.",
+        "pinColor": "blue",
+        "battery": " 78% ",
+        "icon": "dove"
+    },
+    {
+        "id": 2,
+        "siteName": "JD Sports",
+        "Latitude": 53.376,
+        "Longitude": -1.6,
+        "Description": "Iconic triumphal arch built to commemorate Napoleon's victories, with an observation deck.",
+        "pinColor": "red",
+        "battery": " 98% ",
+        "icon": {
+            "url": "./welfareroom.png"
+        }
+    },
+    {
+        "id": 3,
+        "siteName": "Primark",
+        "Latitude": 53.3842,
+        "Longitude": -1.3,
+        "Description": "Info about the place    ",
+        "pinColor": "yellow",
+        "battery": " 87% ",
+        "icon": "car-crash"
+    },
+    {
+        "id": 4,
+        "siteName": "Location 1",
+        "Latitude": 53.3742,
+        "Longitude": -1.4727,
+        "Description": "Info about the place    ",
+        "pinColor": "green",
+        "battery": " 54% ",
+        "icon": "car-crash"
+    },
+    {
+        "id": 5,
+        "siteName": "Location 2",
+        "Latitude": 53.32,
+        "Longitude": -1.727,
+        "Description": "Info about the place    ",
+        "pinColor": "black",
+        "battery": " 45% ",
+        "icon": "car-crash"
+    },
+    {
+        "id": 6,
+        "siteName": "Location 3",
+        "Latitude": 52.3742,
+        "Longitude": -1.47,
+        "Description": "Info about the place    ",
+        "pinColor": "red",
+        "battery": " 43% ",
+        "icon": "car-crash"
+    },
+    {
+        "id": 7,
+        "siteName": "Location 4",
+        "Latitude": 54.3742,
+        "Longitude": -1.427,
+        "Description": "Info about the place    ",
+        "pinColor": "green",
+        "battery": " 65% ",
+        "icon": "car-crash"
+    },
+    {
+        "id": 7,
+        "siteName": "Location 5",
+        "Latitude": 54.3742,
+        "Longitude": -2.47,
+        "Description": "Info about the place    ",
+        "pinColor": "red",
+        "battery": " 69% ",
+        "icon": "car-crash"
+    },
+    {
+        "id": 8,
+        "siteName": "Location 6",
+        "Latitude": 51.3742,
+        "Longitude": -0.47,
+        "Description": "Info about the place    ",
+        "pinColor": "red",
+        "battery": " 11% ",
+        "icon": "car-crash"
+    },
+    {
+        "id": 9,
+        "siteName": "Location 7",
+        "Latitude": 53.3742,
+        "Longitude": -1.87,
+        "Description": "Info about the place    ",
+        "pinColor": "red",
+        "battery": " 35% ",
+        "icon": "car-crash"
+    },
+    {
+        "id": 10,
+        "siteName": "Location 8",
+        "Latitude": 51.3742,
+        "Longitude": -1.37,
+        "Description": "Info about the place    ",
+        "pinColor": "red",
+        "battery": " 12% ",
+        "icon": "car-crash"
+    },
+    {
+        "id": 11,
+        "siteName": "Location 9",
+        "Latitude": 52.3742,
+        "Longitude": -1.47,
+        "Description": "Info about the place    ",
+        "pinColor": "red",
+        "battery": " 82% ",
+        "icon": "car-crash"
+    },
+    {
+        "id": 12,
+        "siteName": "Location 10",
+        "Latitude": 52.3742,
+        "Longitude": -1.47,
+        "Description": "Info about the place    ",
+        "pinColor": "red",
+        "battery": " 31% ",
+        "icon": "car-crash"
+    },
+    {
+        "id": 13,
+        "siteName": "Location 11",
+        "Latitude": 52.3742,
+        "Longitude": -1.47,
+        "Description": "Info about the place    ",
+        "pinColor": "red",
+        "battery": " 66% ",
+        "icon": "car-crash"
+    }
+]
